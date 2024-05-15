@@ -3,17 +3,17 @@
 
 ### backend
 
-check: [index.js file](/Users/aashishrawte/Documents/Interview Tasks/virtuals.io/backend/index.js)
+check: [index.js file](https://github.com/aashishrawte1/virtuals.io/blob/main/index.js)
 
 ### frontend
 
-check: [frontend](/Users/aashishrawte/Documents/Interview Tasks/virtuals.io/frontend)
+check: [frontend](https://github.com/aashishrawte1/virtuals-frontend.git)
 
 
 
 ## Advanced Senior Fullstack (RM 10k+):
 
-check: [app.js file](/Users/aashishrawte/Documents/Interview Tasks/virtuals.io/backend/app.js)
+check: [app.js file](https://github.com/aashishrawte1/virtuals.io/blob/main/app.js)
 
 
 
