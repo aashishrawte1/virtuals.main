@@ -15,7 +15,8 @@ check: [frontend](https://github.com/aashishrawte1/virtuals-frontend.git)
 
 check: [app.js file](https://github.com/aashishrawte1/virtuals.io/blob/main/app.js)
 
-
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 
 ## to setup both frontend and backend
 ### you can prefer to run 
