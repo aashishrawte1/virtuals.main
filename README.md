@@ -32,3 +32,8 @@ you can setup manually repo links are available below and attached with setup.sh
 > frontend: https://github.com/aashishrawte1/virtuals-frontend.git
 
 > backend: https://github.com/aashishrawte1/virtuals.io.git
+
+## flow diagram ( UML diagram )
+
+https://app.diagrams.net/#G1ibnA3_Mizm1aTMxKAEpYi9xFIXASNvls#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
+
