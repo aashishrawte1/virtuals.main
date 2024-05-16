@@ -37,3 +37,6 @@ you can setup manually repo links are available below and attached with setup.sh
 
 https://app.diagrams.net/#G1ibnA3_Mizm1aTMxKAEpYi9xFIXASNvls#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
+or 
+
+https://drive.google.com/file/d/1ibnA3_Mizm1aTMxKAEpYi9xFIXASNvls/view?usp=sharing
